@@ -1,7 +1,7 @@
 # 💫 About Me:
-## Hi, I'm Tea👋<br><br>👨‍💻Middle Python Developer & Junior Dart Developer<br>💡 Developer | Problem Solver | Tech Enthusiast  
-I build bots, backend services, and fun side projects while constantly learning new things.  
-Currently exploring AI, scalable apps, and cross-platform development.  
+## Hi, I'm Tea👋<br><br>👨‍💻Middle Python Developer & Junior Dart Developer<br>💡 Developer | Problem Solver | Tech Enthusiast  <br>
+<br>I build bots, backend services, and fun side projects while constantly learning new things.  <br>
+<br>Currently exploring AI, scalable apps, and cross-platform development.  <br>
 
 
 
