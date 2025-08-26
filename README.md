@@ -1,5 +1,8 @@
 # 💫 About Me:
-## Hi, I'm Tea👋<br><br>👨‍💻Middle Python Developer & Junior Dart Developer<br><br>🏠 I'm from Belarus<br><br>I will trying to help other people with my soft
+## Hi, I'm Tea👋<br><br>👨‍💻Middle Python Developer & Junior Dart Developer<br>💡 Developer | Problem Solver | Tech Enthusiast  
+I build bots, backend services, and fun side projects while constantly learning new things.  
+Currently exploring AI, scalable apps, and cross-platform development.  
+
 
 
 # 💻 Tech Stack:
