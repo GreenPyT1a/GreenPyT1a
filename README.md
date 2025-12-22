@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Tea👋<br><br>👨‍💻Middle Python Developer & Junior C++ Developer
+## Hi, I'm Tim👋<br><br>👨‍💻Middle Python Developer & Junior C++ Developer
 <br>💡 Developer | Problem Solver | Tech Enthusiast  <br>
 <br>I build bots, backend services, and fun side projects while constantly learning new things.  <br>
 <br>Currently exploring AI, scalable apps, and cross-platform development.  <br>
